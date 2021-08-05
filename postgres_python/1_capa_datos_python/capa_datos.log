@@ -1,0 +1,320 @@
+12:49:46 PM: DEBUG [persona.py:51]
+                id: 1
+                nombre: Sergio
+                apellido: Quiroga
+                email: SQ@gmail.com
+                
+10:08:40 PM: DEBUG [persona.py:51]
+                id: 1
+                nombre: Sergio
+                apellido: Quiroga
+                email: SQ@gmail.com 
+                
+10:08:40 PM: DEBUG [persona.py:55]
+                id: None
+                nombre: Sergio
+                apellido: Quiroga
+                email: SQ@gmail.com 
+                
+03:30:14 PM: DEBUG [conexion.py:30]Ocurrion una excepcion al obtener conixion FATAL:  database "5432" does not exist
+
+03:31:28 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f4967b03af0; dsn: 'user=sergio password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:36:34 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f0fc5478af0; dsn: 'user=sergio password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:36:51 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7efc245dfaf0; dsn: 'user=sergio password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+03:36:51 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7efc24558130; closed: 0>
+04:29:27 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f019c0953d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+04:29:27 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f019abfe040; closed: 0>
+04:29:27 PM: DEBUG [persona_dao.py:31]
+                id: 1
+                nombre: sergio
+                apellido: quiroga
+                email: 29 
+                
+04:29:27 PM: DEBUG [persona_dao.py:31]
+                id: 2
+                nombre: tatiana
+                apellido: morimitsu
+                email: 29 
+                
+04:29:27 PM: DEBUG [persona_dao.py:31]
+                id: 3
+                nombre: Daniela
+                apellido: Santamaria
+                email: 27 
+                
+04:29:27 PM: DEBUG [persona_dao.py:31]
+                id: 4
+                nombre: nataly
+                apellido: castillo
+                email: 27 
+                
+04:49:30 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fa87147e3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+04:50:52 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fb1e36cb3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+04:57:32 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f9c3d81b3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:04:01 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f354363b3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:10:41 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f0424b113d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:15:40 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f53ab6d93d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:16:50 PM: DEBUG [persona.py:51]
+                id: 1
+                nombre: Sergio
+                apellido: Quiroga
+                email: 24 
+                
+05:16:50 PM: DEBUG [persona.py:55]
+                id: None
+                nombre: Sergio
+                apellido: Quiroga
+                email: 55 
+                
+05:18:41 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f9a7febf3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:22:36 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f9df85973d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:23:19 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f056d3d53d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:30:57 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fe1465083d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:39:14 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fce9558d3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:40:40 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f20d1ebc3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:40:40 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f20d0ace130; closed: 0>
+05:44:24 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f497c55c3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:44:24 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f497b16e130; closed: 0>
+05:44:58 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fb0b4b003d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+05:44:58 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7fb0b3712130; closed: 0>
+05:44:58 PM: DEBUG [persona_dao.py:34]Personas a insertada: 
+                id: None
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+05:44:58 PM: DEBUG [persona_dao.py:44]Personas insertadas : 1
+06:19:49 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fd95f83e3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+06:19:49 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7fd95e450130; closed: 0>
+06:19:49 PM: DEBUG [persona_dao.py:50]
+                id: 1
+                nombre: sergio
+                apellido: quiroga
+                age: 29 
+                
+06:19:49 PM: DEBUG [persona_dao.py:50]
+                id: 2
+                nombre: tatiana
+                apellido: morimitsu
+                age: 29 
+                
+06:19:49 PM: DEBUG [persona_dao.py:50]
+                id: 3
+                nombre: Daniela
+                apellido: Santamaria
+                age: 27 
+                
+06:19:49 PM: DEBUG [persona_dao.py:50]
+                id: 4
+                nombre: nataly
+                apellido: castillo
+                age: 27 
+                
+06:19:49 PM: DEBUG [persona_dao.py:50]
+                id: 9
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+06:20:40 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f183347e3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+06:20:40 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f1832090130; closed: 0>
+06:22:00 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7facb1e013d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+06:22:00 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7facb0a13130; closed: 0>
+06:22:09 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f9ab8e1a3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+06:22:09 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f9ab7a2c130; closed: 0>
+06:23:33 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f877a1283d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+06:23:33 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f8778d3a130; closed: 0>
+06:23:33 PM: DEBUG [persona_dao.py:34]Personas a insertada: 
+                id: None
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+06:23:33 PM: DEBUG [persona_dao.py:44]Personas insertadas : 1
+06:24:13 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f1a34e093d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+06:24:13 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f1a33a1b130; closed: 0>
+06:24:13 PM: DEBUG [persona_dao.py:34]Personas a insertada: 
+                id: None
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+06:24:13 PM: DEBUG [persona_dao.py:44]Personas insertadas : 1
+07:10:12 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fb00aaa53d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+07:10:12 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7fb0096b7130; closed: 0>
+07:10:12 PM: DEBUG [persona_dao.py:34]Personas a insertada: 
+                id: None
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+07:10:12 PM: DEBUG [persona_dao.py:44]Personas insertadas : 1
+08:12:42 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fdc3bdb63d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+08:12:42 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7fdc3a9c8130; closed: 0>
+08:12:43 PM: DEBUG [persona_dao.py:33]Personas a insertada: 
+                id: None
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+08:12:43 PM: DEBUG [persona_dao.py:43]Personas insertadas : 1
+08:15:26 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f62fe3163d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+08:15:26 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f62fcf28130; closed: 0>
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 1
+                nombre: sergio
+                apellido: quiroga
+                age: 29 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 2
+                nombre: tatiana
+                apellido: morimitsu
+                age: 29 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 3
+                nombre: Daniela
+                apellido: Santamaria
+                age: 27 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 4
+                nombre: nataly
+                apellido: castillo
+                age: 27 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 9
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 10
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 11
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 12
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+08:15:26 PM: DEBUG [persona_dao.py:44]
+                id: 13
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+09:06:42 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f0645e223d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:06:42 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f0644a34130; closed: 0>
+09:06:42 PM: DEBUG [persona_dao.py:44]
+                id: 1
+                nombre: sergio
+                apellido: quiroga
+                age: 29 
+                
+09:06:42 PM: DEBUG [persona_dao.py:44]
+                id: 2
+                nombre: tatiana
+                apellido: morimitsu
+                age: 29 
+                
+09:06:42 PM: DEBUG [persona_dao.py:44]
+                id: 3
+                nombre: Daniela
+                apellido: Santamaria
+                age: 27 
+                
+09:06:42 PM: DEBUG [persona_dao.py:44]
+                id: 4
+                nombre: nataly
+                apellido: castillo
+                age: 27 
+                
+09:06:42 PM: DEBUG [persona_dao.py:44]
+                id: 9
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+09:06:42 PM: DEBUG [persona_dao.py:44]
+                id: 13
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+09:09:43 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7fd489b563d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:09:43 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7fd488768130; closed: 0>
+09:09:43 PM: DEBUG [persona_dao.py:44]
+                id: 1
+                nombre: sergio
+                apellido: quiroga
+                age: 29 
+                
+09:09:43 PM: DEBUG [persona_dao.py:44]
+                id: 2
+                nombre: tatiana
+                apellido: morimitsu
+                age: 29 
+                
+09:09:43 PM: DEBUG [persona_dao.py:44]
+                id: 3
+                nombre: Daniela
+                apellido: Santamaria
+                age: 27 
+                
+09:09:43 PM: DEBUG [persona_dao.py:44]
+                id: 4
+                nombre: nataly
+                apellido: castillo
+                age: 27 
+                
+09:09:43 PM: DEBUG [persona_dao.py:44]
+                id: 9
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+09:09:43 PM: DEBUG [persona_dao.py:44]
+                id: 13
+                nombre: Andres
+                apellido: MonR
+                age: 45 
+                
+09:36:12 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f202ff8f3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:36:12 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f202eba1130; closed: 0>
+09:37:33 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f73016b23d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:37:33 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f73002c4130; closed: 0>
+09:45:52 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f8d459da3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:45:52 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f8d445ec130; closed: 0>
+09:48:41 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7efef1e403d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:48:41 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7efef0a52130; closed: 0>
+09:48:53 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f421b62e3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:48:53 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f421a240130; closed: 0>
+09:51:26 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f6e3b25e3d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:51:26 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f6e39e70130; closed: 0>
+09:51:26 PM: DEBUG [persona_dao.py:44]Personas actualizada: 
+                id: 13
+                nombre: Juliana
+                apellido: Torres
+                age: 13 
+                
+09:51:26 PM: DEBUG [persona_dao.py:54]Personas insertadas : 1
+09:56:15 PM: DEBUG [conexion.py:26]Conexion exitosa: <connection object at 0x7f08a2ec43d0; dsn: 'user=sergio password=xxx dbname=new_db host=127.0.0.1 port=5432', closed: 0>
+09:56:15 PM: DEBUG [conexion.py:40]Se abrio correctamente el cursor: <cursor object at 0x7f08a1ad7130; closed: 0>
+09:56:15 PM: DEBUG [persona_dao.py:53]Personas actualizada: 
+                id: 4
+                nombre: None
+                apellido: None
+                age: None 
+                
+09:56:15 PM: DEBUG [persona_dao.py:65]Personas eliminadas: 1
