@@ -1,0 +1,23 @@
+1. Create Vitual env: 
+-virtualenv _name_project
+2. Install Django : 
+-pip install django
+3. Initialize the database and create a super user:
+-python3 mange.py makemigrations
+-python3 mange.py migrate
+
+-python3 mange.py createsuperuser
+-python3 manage.py runserver
+
+4. Start the development server and test. Alsom log in to the admin area.
+5. Create Django app fot the core views (front page, privacy policy, etc..)
+- mkdir apps
+- mkdir apps/core
+-python3 manage.py startapp core apps/core
+-python3 manage.py runserver
+
+
+6. Create the base template file
+7. Create the frontpage
+8. Create a very simple privacy policy and terms of agreements page
+9. Create a page for showing the different pricing plans.
